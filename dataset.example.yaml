@@ -1,0 +1,10 @@
+# Replace this path with the local dataset root.
+path: /path/to/fimrnet_gland_dataset
+train: train.txt
+val: valid.txt
+test: test.txt
+
+names:
+  0: Normal
+  1: Negative
+  2: Positive

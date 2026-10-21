@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+Pillow
+tqdm
+matplotlib
+gradio>=3.35,<4
